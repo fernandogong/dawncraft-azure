@@ -1,0 +1,2 @@
+cd DawnCraftServer
+./run.sh
